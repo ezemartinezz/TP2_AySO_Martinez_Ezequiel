@@ -79,3 +79,25 @@ git commit -m "TP 2 AySO"
 git config user.name "Ezequiel Martinez"
 git config user.email "ezenmartinez@gmail.com"
 git config --list
+git add .
+git commit -m "TP 2 AySo"
+git branch
+git push -u origin main
+ls -la 
+cd .ssh
+ls -l
+cd ..
+git push
+git push --set-upstream origin main
+git remote remove origin
+git status
+git push
+git remote add origin https://github.com/ezemartinezz/TP2_AySO_Martinez_Ezequiel.git
+git push
+git push --set-upstream origin main
+sudo pvs > pvs.txt
+sudo vgs > vgs.txt
+sudo lvs > lvs.txt
+history > historial_lvm.txt
+ls -l
+git push
